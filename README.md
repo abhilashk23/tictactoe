@@ -5,4 +5,4 @@ It has 2 different game modes:
  - Single Player Mode ( Human vs AI)
  - Two Player Mode (Human vs Human)
 
-The single playerg amemode has two levels of difficulty.
+The single playerg amemode has two levels of difficulty - Easy and Hard.
