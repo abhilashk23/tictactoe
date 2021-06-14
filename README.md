@@ -9,5 +9,4 @@ The single playerg amemode has two levels of difficulty - Easy and Hard.
 
 For demo, [Click Here](https://online-tic-tac-toe-game.netlify.app/)
 
-
-
+You can fork and clone this repo, if you want.
