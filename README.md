@@ -6,3 +6,8 @@ It has 2 different game modes:
  - Two Player Mode (Human vs Human)
 
 The single playerg amemode has two levels of difficulty - Easy and Hard.
+
+For demo, [Click Here](https://online-tic-tac-toe-game.netlify.app/)
+
+
+
